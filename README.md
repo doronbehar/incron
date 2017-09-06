@@ -14,7 +14,7 @@ Content
 4. [Requirements](#requirments)
 5. [How to build](#how-to-build)
 6. [How to use](#how-to-use)
-7. [Bugs, suggestions](#bugs--suggestion)
+7. [Bugs, suggestions](#bugs-suggestion)
 8. [Licensing](#licensing)
 
 
